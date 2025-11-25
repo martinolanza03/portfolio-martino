@@ -1,6 +1,6 @@
 import "../style/Header.css";
 function Header() {
-    return (<header className="flex flex-row justify-center bg-slate-950/80 backdrop-blur-sm border-b border-blue-900/20">
+    return (<header className="flex flex-row justify-center bg-slate-950/80 backdrop-blur-sm border-b border-blue-900/20 fixed top-0 right-0 left-0">
         <nav className="container mx-auto px-6 py-4">
             <div className="flex items-center justify-between">
                 <div className=" text-blue-400 font-bold">Martino.</div>

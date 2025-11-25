@@ -1,6 +1,6 @@
 function Me() {
 
-    const cvPath = "/public/cv_martino.pdf";
+    const cvPath = "src/assets/pdf/cv_martino.pdf";
 
     return (<>
 

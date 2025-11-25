@@ -24,5 +24,4 @@ dist-ssr
 *.sw?
 
 
-/public/cv_martino.pdf
-/public
+src/assets/pdf/cv_martino.pdf

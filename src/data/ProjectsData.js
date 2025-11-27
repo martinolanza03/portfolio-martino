@@ -13,7 +13,7 @@ const projectsdata = [
         description: "Booroad è una piattaforma web innovativa dedicata agli amanti dei viaggi, sviluppata come progetto di corso da 6 studenti appassionati di Boolean. Il sito si propone come punto di riferimento per viaggiatori alla ricerca di esperienze autentiche e itinerari personalizzati. ",
         image: "src/assets/projects/booroad.jpg",
         technologies: ["React", "Vite", "CSS", "Bootstrap"],
-        githubUrl: "https://github.com/tuo-username/task-app",
+        githubUrl: "https://github.com/martinolanza03/boo-road-webapp",
     },
     {
         id: 3,
@@ -21,7 +21,7 @@ const projectsdata = [
         description: "Questo sito vetrina dedicato a DC Comics è stato sviluppato come progetto pratico durante il mio corso di formazione con Boolean, con l'obiettivo di applicare le competenze frontend acquisite.",
         image: "src/assets/projects/dc_comics.jpg",
         technologies: ["React", "Vite", "CSS"],
-        githubUrl: "https://github.com/tuo-username/task-app",
+        githubUrl: "https://github.com/martinolanza03/react-dc-comics",
     },
 
 ];

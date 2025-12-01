@@ -31,7 +31,7 @@ function Projects({ projects }) {
     };
 
     return (
-        <div className="container mx-auto max-w-6xl px-4 py-8">
+        <div className="container mx-auto max-w-6xl px-4 py-8" id="progetti">
             {/* Header */}
             <div className="flex items-center justify-between mb-12">
                 <h2 className="text-white text-2xl font-bold">I Miei Progetti</h2>

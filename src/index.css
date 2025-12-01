@@ -4,3 +4,11 @@ body {
     background-color: #020617;
     color: oklch(0.985 0 0);
 }
+
+#progetti {
+    scroll-margin-top: 6rem;
+}
+
+html {
+    scroll-behavior: smooth;
+}

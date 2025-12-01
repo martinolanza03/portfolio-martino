@@ -5,7 +5,7 @@ function Header() {
             <div className="flex items-center justify-between">
                 <div className=" text-blue-400 font-bold">Martino.</div>
                 <div className="flex gap-8">
-                    <div className="text-gray-300 hover:text-blue-400 transition-colors">Progetti</div>
+                    <div className="text-gray-300 hover:text-blue-400 transition-colors"><a href="#progetti">Progetti </a></div>
                     <div className="text-gray-300 hover:text-blue-400 transition-colors">Contatti</div>
                 </div>
             </div>

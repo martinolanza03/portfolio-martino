@@ -26,3 +26,5 @@ dist-ssr
 
 src/assets/pdf/cv_martino.pdf
 src/data/Experience.js
+.vercel
+.env*.local

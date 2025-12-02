@@ -87,9 +87,10 @@ function Technologies({ languages }) {
                     <div className="absolute inset-0 flex items-center justify-center">
                         <div className="w-64 h-64 bg-blue-500/20 blur-3xl rounded-full"></div>
                     </div>
-                    <div className="relative bg-linear-to-br from-blue-950 to-slate-950 border border-blue-500/30 rounded-full w-40 h-40 flex items-center justify-center">
-
-                        <div className="text-blue-400 text-6xl">&lt;/&gt;</div>
+                    <div class="relative bg-linear-to-br from-blue-950 to-slate-950 border border-blue-500/30 rounded-full w-40 h-40 flex items-center justify-center">
+                        <div class="text-blue-400 text-6xl -translate-y-0.5">
+                            &lt;/&gt;
+                        </div>
                     </div>
                 </div>
             </div>

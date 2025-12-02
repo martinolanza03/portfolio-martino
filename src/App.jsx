@@ -3,6 +3,7 @@ import Me from "./components/Me"
 import WorkExperience from "./components/WorkExperience"
 import Projects from "./components/Projects.jsx"
 import Technologies from "./components/Technologies.jsx"
+import Footer from "./components/Footer.jsx"
 
 
 
@@ -18,6 +19,7 @@ function App() {
     <Projects projects={projectsdata} />
     <Technologies languages={languages} />
     <WorkExperience works={experience} />
+    <Footer />
   </>)
 
 }

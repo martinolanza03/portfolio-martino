@@ -6,7 +6,7 @@ function Header() {
                 <div className=" text-blue-400 font-bold">Martino.</div>
                 <div className="flex gap-8">
                     <div className="text-gray-300 hover:text-blue-400 transition-colors"><a href="#progetti">Progetti </a></div>
-                    <div className="text-gray-300 hover:text-blue-400 transition-colors">Contatti</div>
+                    <div className="text-gray-300 hover:text-blue-400 transition-colors"><a href="#contact">Contatti</a></div>
                 </div>
             </div>
         </nav>

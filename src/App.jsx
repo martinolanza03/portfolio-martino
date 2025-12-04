@@ -7,7 +7,7 @@ import Footer from "./components/Footer.jsx"
 
 
 
-import experience from "./data/Experience.js"
+import works from "./data/Works.js"
 import projectsdata from "./data/ProjectsData.js"
 import languages from "./data/LanguagesTech.js"
 import education from "./data/Education.js"
@@ -19,7 +19,7 @@ function App() {
     <Me />
     <Projects projects={projectsdata} />
     <Technologies languages={languages} />
-    <ExperienceAndEducation works={experience} education={education} />
+    <ExperienceAndEducation works={works} education={education} />
     <Footer />
   </>)
 

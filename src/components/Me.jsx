@@ -14,7 +14,7 @@ function Me() {
             </p>
 
             <p className="text-gray-400 text-xl mb-8 text-center">
-                Potete scaricare qui il mio
+                Potete scaricare qui il mio {" "}
                 <a
                     href={cvPath}
                     download="Martino_Lanza_Curriculum.pdf"
